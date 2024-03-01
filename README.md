@@ -1,2 +1,2 @@
 # Tad Decker
-Computer Science Student at BYU-Idaho
+Computer Science student at BYU-Idaho.
