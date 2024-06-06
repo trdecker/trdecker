@@ -13,5 +13,4 @@ Computer Science student at BYU-Idaho.
   - Command line task manager written in Kotlin
 - ImpossibleTicTacToe (C#)
   - A for-fun implementation of Tic-Tac-Toe with an impossible setting
-
-<p>Soon to come: as I begin contributing more to the open-source community, I hope to share some of my contributions here!</p>
+  - 
