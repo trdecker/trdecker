@@ -1,16 +1,15 @@
 # Tad Decker
-Computer Science student at BYU-Idaho.
+Developer at AI Vector. I like coding and playing drums.
 
-## Some interesting repositories of mine, in a variety of languages:
+## Some interesting repositories of mine:
 
 - WriteAway (Typescript)
   - Journalling application created with React Ionic, based on NoteMaster but expanded in scope
-- NoteMaster (Javascript)
-  - Note taking application written in React Native
-- NoteMasterAPI (Javascript)
+- NoteMaster (Javascript, React Native)
+  - Note taking application
+- NoteMasterAPI (Javascript, Node.js)
   - Node.js backend utilizing Microsoft Azure services
+- Graph World (C#, Unity)
+  - Educational program to teach graph theory to children
 - ktTaskManager (Kotlin)
   - Command line task manager written in Kotlin
-- ImpossibleTicTacToe (C#)
-  - A for-fun implementation of Tic-Tac-Toe with an impossible setting
-  - 
