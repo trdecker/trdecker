@@ -1,5 +1,5 @@
 # Tad Decker
-Developer at AI Vector. I like coding and playing drums.
+Developer at Veebas. I like coding and playing drums
 
 ## Some interesting repositories of mine:
 
