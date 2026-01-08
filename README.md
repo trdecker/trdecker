@@ -1,5 +1,5 @@
 # Tad Decker
-Developer at Veebas. I like coding and playing drums
+Full stack developer. I like coding and playing drums.
 
 ## Some interesting repositories of mine:
 
